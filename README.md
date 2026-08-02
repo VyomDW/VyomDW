@@ -10,7 +10,7 @@
 
 Experience:
 -
-- Machine Learning Researcher @ Texas A&M
+- Medical Artificial Intelligence Researcher @ Texas A&M
 - Quantum Computing Researcher @ Texas A&M
 - Data Scientist @ Southwest Airlines & Aggie Data Science Club
 - Quantitative Analyst @ Aggie Investment Club
@@ -18,7 +18,7 @@ Experience:
 
 Projects:
 -
-- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)**
+- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, 
 - **[Knee Osteoarthritis Detector](https://github.com/SharjeelAmin/AI-OsteoArthritis-severity-detector)** | Python, JavaScript, HTML
 - **[Airlines Weather Score](southwest-weather-score-project)** | Python, Scikit Learn, Pandas
 - Cardz - Smart Flash Cards | Swift, CoreData, CoreML, Go, AWS
