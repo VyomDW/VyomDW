@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Currently working on ScaleBridge, a Multi-dimensional model fusion pipeline and Agentic AI for Medical Imaging</b>
+  <b>Currently working on a Multi-dimensional model fusion pipeline and Agentic AI for Medical Imaging</b>
 </p>
 
 
