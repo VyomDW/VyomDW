@@ -18,7 +18,7 @@ Experience:
 
 Projects:
 -
-- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, 
+- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI
 - **[Knee Osteoarthritis Detector](https://github.com/SharjeelAmin/AI-OsteoArthritis-severity-detector)** | Python, JavaScript, HTML
 - **[Airlines Weather Score](southwest-weather-score-project)** | Python, Scikit Learn, Pandas
 - Cardz - Smart Flash Cards | Swift, CoreData, CoreML, Go, AWS
