@@ -1,6 +1,6 @@
 ## Hi there, I'm Vyom Dwivedi 👋
 <p align="center">
-  <b>Sophomore Statistics & Computer Science + Mathematics Student @ Texas A&M University</b>
+  <b> Statistics & Computer Science + Mathematics Student @ Texas A&M University</b>
 </p>
 
 <p align="center">
