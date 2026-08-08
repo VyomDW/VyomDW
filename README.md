@@ -7,15 +7,6 @@
   <b>Currently working on a Multi-dimensional model fusion pipeline and Agentic AI for Medical Imaging</b>
 </p>
 
-
-Experience:
--
-- Medical Artificial Intelligence Researcher @ Texas A&M
-- Quantum Computing Researcher @ Texas A&M
-- Data Scientist @ Southwest Airlines & Aggie Data Science Club
-- Quantitative Analyst @ Aggie Investment Club
-- ML Engineer Fellow @ Handshake
-
 Projects:
 -
 - **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI
