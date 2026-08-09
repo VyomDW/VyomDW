@@ -10,6 +10,7 @@
 Projects:
 -
 - **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI
+- **[ETF-Cointegration-Engine-with-Machine-Learning-Structural-Break-Detection]([https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline](https://github.com/VyomDW/Dynamic-ETF-Cointegration-Engine-with-Machine-Learning-Structural-Break-Detection))** | Python, yfinance
 - **[Knee Osteoarthritis Detector](https://github.com/SharjeelAmin/AI-OsteoArthritis-severity-detector)** | Python, JavaScript, HTML
 - **[Airlines Weather Score](southwest-weather-score-project)** | Python, Scikit Learn, Pandas
 - Cardz - Smart Flash Cards | Swift, CoreData, CoreML, Go, AWS
