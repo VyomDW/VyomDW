@@ -9,7 +9,7 @@
 
 Projects:
 -
-- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI
+- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI, Agentic AI
 - **[ETF_Backtesting_Algorithm](https://github.com/VyomDW/ETF_Backtesting_Algorithm)** | Python, yfinance, Statsmodels
 - **[Knee Osteoarthritis Detector](https://github.com/SharjeelAmin/AI-OsteoArthritis-severity-detector)** | Python, JavaScript, HTML
 - **[Southwest Airlines Weather Score](https://github.com/VyomDW/southwest-weather-score-project)** | Python, Scikit Learn, Pandas
