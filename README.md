@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-  <b>Currently working on a Multi-dimensional model fusion pipeline and Agentic AI for Medical Imaging</b>
+  <b>Currently working on An LLM-driven agentic system for Brain MRI </b>
 </p>
 
 Projects:
 -
-- **[Multi-Model Medical Imagine Pipeline](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI, Agentic AI
+- **[NodePad](https://github.com/VyomDW/NodePad)** | Typescript, React, Fastify
+- **[Agentic Prediction from Multi-Sequence Brain MR](https://github.com/VyomDW/MultiDimensional-Medical-Imaging-Pipeline)** | Python, Dino, MONAI
 - **[ETF_Backtesting_Algorithm](https://github.com/VyomDW/ETF_Backtesting_Algorithm)** | Python, yfinance, Statsmodels
 - **[Knee Osteoarthritis Detector](https://github.com/SharjeelAmin/AI-OsteoArthritis-severity-detector)** | Python, JavaScript, HTML
 - **[Southwest Airlines Weather Score](https://github.com/VyomDW/southwest-weather-score-project)** | Python, Scikit Learn, Pandas
